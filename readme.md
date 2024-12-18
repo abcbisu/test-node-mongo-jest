@@ -8,5 +8,5 @@ yarn add mongoose express
 
 ### run test
 ```
-npx jest
+yarn test
 ```
