@@ -1,0 +1,16 @@
+{
+  "name": "node-mongo-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "jest": "^29.7.0",
+    "mongodb-memory-server": "^10.1.2",
+    "mongoose": "^8.9.1",
+    "supertest": "^7.0.0"
+  }
+}
